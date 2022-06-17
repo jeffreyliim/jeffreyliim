@@ -6,5 +6,5 @@
 
 [![Jeffrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyliim&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-## Lets admit, we all hate Leetcode [but here's my profile nonetheless](https://leetcode.com/jeffreyliim)
+## Lets admit, we all hate Leetcode, but here's my [profile](https://leetcode.com/jeffreyliim) nonetheless
 [![Jeffrey's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=jeffreyliim&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
